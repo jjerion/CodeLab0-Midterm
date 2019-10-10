@@ -5,11 +5,11 @@
     "name": "obj_rose",
     "eventList": [
         {
-            "id": "ff55c164-3618-42f3-b570-1919f82ee9b5",
+            "id": "e0500f2d-53e0-4ac2-9146-c223124b2038",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "e03c5bb9-c5d5-48c1-8710-0c7c35faad96",
+            "collisionObjectId": "3c885d69-3455-459c-a13d-dd343abd285d",
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "0067defa-7da0-4671-8bd1-7a3fd2348815"

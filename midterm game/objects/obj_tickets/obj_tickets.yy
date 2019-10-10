@@ -5,11 +5,11 @@
     "name": "obj_tickets",
     "eventList": [
         {
-            "id": "6066508f-a05c-4813-b1bc-e9d3ffa0e3b7",
+            "id": "76a38da1-f55e-46e9-898d-10eee34ffb91",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "e03c5bb9-c5d5-48c1-8710-0c7c35faad96",
+            "collisionObjectId": "3c885d69-3455-459c-a13d-dd343abd285d",
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "63a01fbb-17ac-4668-a41b-1fdbf28c592c"
