@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description tie tongue frame to frog frame
 // You can write your code in this editor
 
 x = obj_frog.x 
@@ -6,11 +6,11 @@ y = obj_frog.y
 
 if(obj_frog.image_index = 0){
 	image_index = 0;
-	x = obj_frog.x - 20;
+	x = obj_frog.x - 36;
 }
 		else if(obj_frog.image_index = 1){
 			image_index = 2;
-			x = obj_frog.x + 20;
+			x = obj_frog.x + 36;
 		}
 			else if(obj_frog.image_index = 2){
 				image_index = 1;

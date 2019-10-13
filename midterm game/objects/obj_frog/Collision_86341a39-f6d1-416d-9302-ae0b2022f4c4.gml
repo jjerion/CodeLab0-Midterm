@@ -4,4 +4,4 @@ x = room_width*.15;
 y = room_height*.85;
 
 global.tally -= 1;
-global.frog_speed -= .3;
+global.frog_speed -= .25;

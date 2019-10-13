@@ -5,11 +5,11 @@
     "name": "obj_bagel",
     "eventList": [
         {
-            "id": "cb65338d-1821-4198-8da3-40916c088452",
+            "id": "eda7dd19-1a35-4cb1-8573-17cd035ebf8f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "e03c5bb9-c5d5-48c1-8710-0c7c35faad96",
+            "collisionObjectId": "3c885d69-3455-459c-a13d-dd343abd285d",
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "271d834b-1f53-424a-a370-4cc2c9728880"

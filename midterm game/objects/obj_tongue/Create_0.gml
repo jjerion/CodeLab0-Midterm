@@ -1,6 +1,5 @@
-/// @description Insert description here
+/// @description establish visibility var and depth
 // You can write your code in this editor
-i = 0;
-frames = 0;
+
 global.tonguevis = 0;
 depth = -10
